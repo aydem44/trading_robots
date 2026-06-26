@@ -1,0 +1,4 @@
+*.env
+*.ipynb
+robot.log
+.ipynb_checkpoints/
